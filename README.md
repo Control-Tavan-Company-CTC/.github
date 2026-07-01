@@ -1,1 +1,2 @@
-# .github
+# Control Tavan Company (CTC)
+- CTC is a knowledge-based engineering company with international standards in designing laboratory, research, and industrial analyzers for water, air, and soil quantity and quality equipped with data loggers, modems, and central control system software for online data monitoring. We currently operate over 500 online stations across various hydrometeorology domains throughout Iran, serving regional water companies, urban crisis management organizations, and universities.
